@@ -43,7 +43,7 @@ function page() {
               <span className="font-mono text-xs font-medium uppercase tracking-[0.2em] ">
                 Coming Soon
               </span>
-                <Countdown days={30} />
+                {/* <Countdown days={30} /> */}
             </div>
              
           </div>
